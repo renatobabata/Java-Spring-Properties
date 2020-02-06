@@ -1,0 +1,3 @@
+com\renato\springproperties\SpringpropertiesApplication.class
+com\renato\springproperties\Controller\RestEndpoints.class
+com\renato\springproperties\Controller\Course.class
